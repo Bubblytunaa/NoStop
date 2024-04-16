@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello SANYA4!");
         System.out.println("Hello SANYA5!");
+        System.out.println("Hello SANYA6!");
     }
 }
